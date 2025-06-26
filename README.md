@@ -1,5 +1,10 @@
 ## Hi there 👋
-
+- 🔭 I’m currently studying at Pontificia Universidad Católica del Perú
+- 🌱 I’m currently learning web development, algorithms and data structures
+- 👯 I’m looking to collaborate on open source repositories
+- 🤔 I’m looking for help with learning to develop and ecommerce
+- 💬 I want to make friends :D
+- 📫 IG: dafne_jf
 <!--
 **dafne-janampa/dafne-janampa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
